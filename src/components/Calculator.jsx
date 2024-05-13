@@ -1,6 +1,4 @@
 import { useState } from "react";
-
-import Button from "./Button";
 import Result from "./Result";
 import ButtonNumber from "./ButtonNumber";
 import ButtonOperator from "./ButtonOperator";
